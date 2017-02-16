@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mindy Fenn</title>
+    </head>
+    <body>
+
+    <h1> Hi, I'm Mindy Fenn. </h1> 
+	
+	<img src="friends.jpg"> 
+	
+	<p>Welcome to my personal website. I have no idea what I'm doing and I hate coding with a passion. Don't hire me for coding. I'm a second year at the University of Maine.</p>
+	<br>
+	<a href="https://umaine.edu">UMaine</a>
+	
+	<a href="tiger.html">My Cat</a>
+	
+	
+	
+    </body>
+</html>
+
